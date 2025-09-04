@@ -1,9 +1,4 @@
 # ReGifitly
-Here’s a more professional README.md version for your ReGiftly project on GitHub:
-
-
----
-
 ReGiftly
 
 ReGiftly is a web platform designed to connect donors and receivers of essential items such as clothes and books. The project aims to promote sustainability by reducing waste and encouraging community support through sharing.
@@ -69,8 +64,3 @@ Contributions are welcome! If you’d like to enhance the project, please fork t
 📄 License
 
 This project is licensed under the MIT License – see the LICENSE file for details.
-
-
----
-
-Would you like me to also prepare a short tagline (one-line purpose) for the top of the README (something catchy, like a project slogan)?
