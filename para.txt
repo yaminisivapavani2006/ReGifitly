@@ -1,0 +1,1 @@
+ReGiftly is a donation platform designed to make it easy for people to donate books, clothes, and other useful items to those in need. The goal is to reduce waste, help communities, and spread kindness through a simple web-based system.
