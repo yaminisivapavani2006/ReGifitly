@@ -42,18 +42,6 @@ Reduce waste and environmental impact
 
 Support community members in need
 
-
-🚀 Getting Started
-
-1. Clone the repository:
-
-2. Open the project folder and run the website in your browser.
-
-
-3. (Optional) Connect to a backend for storing form submissions.
-
-
-
 🤝 Contributing
 
 Contributions are welcome! If you’d like to enhance the project, please fork the repository and submit a pull request.
