@@ -45,7 +45,3 @@ Support community members in need
 🤝 Contributing
 
 Contributions are welcome! If you’d like to enhance the project, please fork the repository and submit a pull request.
-
-📄 License
-
-This project is licensed under the MIT License – see the LICENSE file for details.
